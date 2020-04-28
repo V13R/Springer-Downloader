@@ -2,7 +2,7 @@
 I made this script to quickly download the books Springer have publicly made available during the Covid 19 pandemic.
 
 They have made the books available [here](https://link.springer.com/search/page/2?facet-content-type=%22Book%22&package=mat-covid19_textbooks&facet-language=%22En%22&sortOrder=newestFirst&showAll=true)
-In order to download a set of books, you can add filters for your interests. After that, click on the "Download search results(CSV)". 
+In order to download a set of books, you can add filters for your interests. After that, click on the "Download search results(CSV)" button (highlighted below in green). 
 
 ![Download Button](DownloadButton.png)
 
